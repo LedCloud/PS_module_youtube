@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>kt_youtubeproduct</name>
+	<displayName><![CDATA[Youtube video on product page]]></displayName>
+	<version><![CDATA[0.2.0]]></version>
+	<description><![CDATA[Embed youtube video on the product page]]></description>
+	<author><![CDATA[Konstantin Toporov]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
